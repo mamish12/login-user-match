@@ -9,7 +9,7 @@ public class LoginUse1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(LoginUse1Application.class, args);
 		System.out.println("hello world1");
-		System.out.println("git is created");
+		System.out.println("git is created2");
 	}
 
 }
